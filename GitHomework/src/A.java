@@ -4,5 +4,6 @@ public class A {
 		System.out.println("This is A");
 		System.out.println("A is Changed");
 		System.out.println("A.java Change in devC");
+		A MasterChange = new A();
 	}
 }
